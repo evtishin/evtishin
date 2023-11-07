@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Evgeniy Tishin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Haskell
+- 👀 I’m interested in creating my own OS
+- 🌱 I’m currently learning assembly and C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - https://www.linkedin.com/in/etishin/
 
 <!---
 evtishin/evtishin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
